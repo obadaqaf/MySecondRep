@@ -35,8 +35,8 @@ welcome = """
   <title>Nuha Team 2222222222222222222222222222222</title>
   <style>
   body {
-    color: #9B00FF;
-    background-color: #9B00FF;
+    color: #FDC0FF;
+    background-color: #FDC0FF;
     font-family: Arial, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
