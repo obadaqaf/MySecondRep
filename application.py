@@ -68,8 +68,8 @@ welcome = """
     text-align: right;
     padding-top: 11em;
     background-color: #BEFF00;
-    background-image: -moz-radial-gradient(left top, circle, #6AF9BD 0%, #6f009c 60%);
-    background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6AF9BD), to(#00B386));
+    background-image: -moz-radial-gradient(left top, circle, #9e9d9e 0%, #6f009c 60%);
+    background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#9e9d9e), to(#6f009c));
   }
   .textColumn p {
     width: 75%;
