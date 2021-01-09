@@ -82,7 +82,7 @@ welcome = """
     bottom: 0px;
     left: 50%;
 
-    background-color: #ad634b;
+    background-color: #852121;
   }
 
   h1 {
