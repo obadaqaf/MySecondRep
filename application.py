@@ -36,7 +36,7 @@ welcome = """
   <style>
   body {
     color: #FF5733;
-    background-color: #FFFB33;
+    background-color: #9B00FF;
     font-family: Arial, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
@@ -106,7 +106,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Welcome To Nuha Team</h1>
+    <h1>Welcome To Nuha Team V5</h1>
     <p>Nuha Bayan Obada</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform using GitHub</p>
   </div>
